@@ -1,23 +1,6 @@
 //By Ehtisham Ul Haq
 
-CatAndMouseEcosystem system1 = new CatAndMouseEcosystem();
-
-void setup(){
-  size(1280, 900);
-  system1.setup(); // call setup for each ecosystem
-}
-
-void draw() {
-  background(200);
-  system1.draw();// call draw for each ecosystem
-}
-
-void mouseClicked() {
-  system1.mouseClicked(); // call mouseClicked for each ecosystem
-}
-
-
-class CatAndMouseEcosystem {
+class EhtishamsEcosystem {
   float houseSize;
   float legendSize;
   ArrayList<Mouse> mice = new ArrayList<Mouse>();
