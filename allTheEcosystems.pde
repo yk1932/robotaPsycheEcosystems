@@ -1,6 +1,10 @@
+// Import all the files from all the ecosystems
+import chinonyerem/RobotaFinal.pde
+
 // create objects for each ecosystem
 MichaelsEcosystem system1 = new MichaelsEcosystem();
-BriansEcosystem system2 = new BriansEcosystem();
+//BriansEcosystem system2 = new BriansEcosystem();
+ChinonyeremsEcoSystem system3 new ChinonyeremsEcoSystem();
 
 
 void setup(){
