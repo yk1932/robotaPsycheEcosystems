@@ -34,9 +34,9 @@ Here are some of the hurdles I encountered during the implementation of the ecos
 
 ## Screenshots
 
-![](../attachments/2022-02-13-23-10-42-image.png)
+![](./attachments/2022-02-13-23-10-42-image.png)
 
-![](../attachments/2022-02-13-23-11-09-image.png)
+![](./attachments/2022-02-13-23-11-09-image.png)
 
 ## Video
 
