@@ -10,29 +10,10 @@
  - introduce another creature
  
  Change log:
- - Mar 28 - make a separate file with same content in root repo
+ - Mar 28 - make a separate file with just the class in root repo
  - Mar 23 - copy midterm content, put everything in Ecosystem class
  **********/
-
-BriansEcosystem eco = new BriansEcosystem();
-
-void setup() {
-  size(600, 600);
-  eco.setup();
-}
-
-void mouseClicked() {
-  eco.mouseClicked();
-}
-
-void keyPressed() {
-}
-
-void draw() {
-  background(143, 209, 226); //pond water color
-  eco.draw();
-}
-
+ 
 class BriansEcosystem {
   /**********
    food class
