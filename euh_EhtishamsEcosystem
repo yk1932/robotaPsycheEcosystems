@@ -34,7 +34,6 @@ class EhtishamsEcosystem {
   //draw
   //---------------------------------------------------------------------------------//
   void draw() {
-    background(255);
     fill(175, 200);
     noStroke();
     rectMode(CORNER);
