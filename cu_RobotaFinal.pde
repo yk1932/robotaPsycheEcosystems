@@ -48,7 +48,7 @@ class ChinonyeremsEcosystem {
   }
 
   void draw() {
-    background(2, 7, 20);
+    //background(2, 7, 20);
 
     //displays population sizes
     displayPopulation();
